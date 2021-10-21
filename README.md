@@ -1,8 +1,6 @@
 # Cyber_Punk
 ## Cyber Punk Website
-### Dinah
-#### DeBoef
-##### Legacy Home
-###### The
-####### The
-######## The
+### Dinah DeBoef###
+**Dinah**
+_Dinah_
+**_Dinah_**
