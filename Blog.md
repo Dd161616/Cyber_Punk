@@ -6,7 +6,7 @@ These movies I would recommend be 18 and up for the maturity level required for 
 However not all are like this. Tron is a great sit down movie for any one. Ready Player one  would be best  for kids 14  and up. 
 # Solutions to the situation
 However not all are like this. Tron is a great sit down movie for any one. Ready Player one  would be best  for kids 14  and up. 
-Vid angel costs $9.99, this tv channel offers movies that are normally inappropriate and sensors them.  
+Vid angel costs $9.99 per month, this tv channel offers movies that are normally inappropriate and sensors them.  
 # Description of Cyber Punk Movies
 All of these movies are about mostly the same material. 
 Here is my overview of cyberpunk movies based off of my data from my previously mentioned movies.
