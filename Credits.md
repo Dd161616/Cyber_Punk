@@ -15,7 +15,7 @@ Google Search, Google, https://www.google.com/search?q=cyberpunkmovies.
 
 ![image](https://user-images.githubusercontent.com/92458635/140414315-95ae284c-51b6-41a9-9d2f-6a88a8cb3465.png)
 
-Home Page
-Cyberpunk Video Game Sumary
-Cyberpunk Movies Summary
-Cyberpunk Blog
+[Home Page]()
+[Cyberpunk Video Game Sumary]()
+[Cyberpunk Movies Summary]()
+[Cyberpunk Blog]()
