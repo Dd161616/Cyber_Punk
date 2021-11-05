@@ -1,6 +1,6 @@
 # Cuberpunk Video Game Summary
 
-https://github.com/Bradensteel2/cyberpunk/edit/main/README.md
+Cyberpunk 2077 is an action video game made by Cd Project. The story takers place in night city in a universe of its own. You are playing as V, a mercinary outlaw trying to find a one of a kind implant that is a key to mortality.
 
 ![image](https://user-images.githubusercontent.com/92458635/140186049-4e500bb5-5762-4689-ad1a-babdd3500de6.jpeg)
 
