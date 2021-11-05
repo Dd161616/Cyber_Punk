@@ -19,7 +19,7 @@ ending the movies in  defeat of the villain and a happy ending for the main char
 
 ![image](https://user-images.githubusercontent.com/92458635/140414184-65c7e46e-9552-4f13-8eb5-daefdc3ffe5e.jpeg)
 
-Home Page
-Cyberpunk Video Game Summary
-Cyberpunk Movies Summary
-Credits and Sources
+[Home Page](https://github.com/Dd161616/Cyber_Punk/blob/main/Home%20Page.md)
+[Cyberpunk Video Game Summary]()
+[Cyberpunk Movies Summary]()
+[Credits and Sources]()
