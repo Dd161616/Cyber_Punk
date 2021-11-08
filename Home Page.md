@@ -3,7 +3,7 @@
 ## Learn More https://en.m.wikipedia.org/wiki/Cyberpunk
 ### I can't help but think somewhere in the universe there has to be something better than man...
 
-<img width="1080" alt="image" src="https://user-images.githubusercontent.com/92458635/140184051-b4e96318-a92e-4b97-9db0-e6ef976b31c6.png">
+<img width="915" alt="image" src="https://user-images.githubusercontent.com/92458635/140818047-828b2554-97a3-4215-a158-50024a6613bf.png">
 
 [Cuberpunk Video Game Summary](https://github.com/Dd161616/Cyber_Punk/blob/main/Cyberpunk%20Video%20Game%20Summary.md)
 [Cyberpunk Movies Summary](https://github.com/Dd161616/Cyber_Punk/blob/main/Cyberpunk%20Movies%20Summary.md)
