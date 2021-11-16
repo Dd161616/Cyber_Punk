@@ -7,5 +7,6 @@
 
 [Cuberpunk Video Game Summary](/CyberpunkVideoGameSummary.md)
 [Cyberpunk Movies Summary](/CyberpunkMoviesSummary.md)
-[Cyberpunk Blog](https://github.com/Dd161616/Cyber_Punk/blob/main/Blog.md)
-[Credits and Sources](https://github.com/Dd161616/Cyber_Punk/blob/main/Credits.md)
+[Cyberpunk Imagaes](/CyberpunkImages.md)
+[Cyberpunk Blog](/Blog.md)
+[Credits and Sources](/Credits.md)
