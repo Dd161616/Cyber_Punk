@@ -1,2 +1,2 @@
 # Cyber_Punk
-[Visit our site!](/Home Page.md)
+[Visit our site!](/HomePage.md)
